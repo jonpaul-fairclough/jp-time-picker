@@ -1,0 +1,22 @@
+{
+  "name": "jp-time-picker",
+  "version": "1.0.0",
+  "description": "A date picker component",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jonpaul-fairclough/jp-time-picker.git"
+  },
+  "keywords": [
+    "time"
+  ],
+  "author": "Jon Fairclough",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jonpaul-fairclough/time-picker/issues"
+  },
+  "homepage": "https://github.com/jonpaul-fairclough/time-picker#readme"
+}
